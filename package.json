@@ -1,0 +1,9 @@
+{
+  "name": "serverless-utils",
+  "private": true,
+  "license": "MIT",
+  "repository": "https://github.com/steare573/serverless-utils",
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  }
+}
